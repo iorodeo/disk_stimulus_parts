@@ -1,0 +1,27 @@
+Disk stimulus design files:
+
+laser mount:
+------------
+Creates an adapter for mounting the micro epsilon ILD1402-250.VT 
+laser onto the linear motor.   
+
+tslot_mount:
+------------
+Creates a mount for the Linmot linear motor. There are two M6 through holes
+along the center line of the part which are to connect the mount to the motor
+flange via the t-slot in the flange. The mount contains a grid of 1/4-20
+through holes which can be used to mount the motor.
+
+disks:  
+------
+Creates a disk with a hole in the center. The SCAD output file, designed for
+sending the parts to laser cutting, consists of a 2D projection of the disk
+along with 1" reference cube. 
+
+
+Licenses:
+
+* Source code is licensed under the Apache 2.0 software license. 
+* Design files, .dxf, .pdf, .svg, etc are licensed under the Creative Commons
+* 3.0 Attribution license. 
+

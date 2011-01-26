@@ -1,0 +1,12 @@
+syntax: glob
+*.pyc
+*~
+*.o
+*.egg-info
+*.swp
+*.scad
+*.stl
+*.png
+*.ogv
+*.avi
+*.pkl
